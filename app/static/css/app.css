@@ -1,3 +1,12 @@
 body {
     padding-top: 5rem;
 }
+
+.p-main {
+    border-radius: 0.7rem 0.7rem 0 0;
+    background-color: #eb223d;
+    color: white;
+}
+.p-img { background: white; max-width: 150px; }
+
+.p-container {border-radius: 0.7rem; }
